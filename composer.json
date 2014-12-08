@@ -17,6 +17,6 @@
         }
     ],
     "bin": [
-        "bin/selenium.jar"
+        "bin/selenium-standalone.jar"
     ]
 }
