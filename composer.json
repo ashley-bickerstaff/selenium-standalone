@@ -1,0 +1,22 @@
+{
+    "name": "pawcode/selenium-standalone",
+    "description": "Standalone Selenium server versioned and packaged for composer. Selenium is a framework to facilitate automated browser testing.",
+    "keywords": [
+        "automated testing",
+        "selenium",
+        "browser",
+        "Selenium server",
+        "jar"
+    ],
+    "type": "library",
+    "homepage": "https://github.com/pawcode/selenium-standalone",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Ashley Bickerstaff"
+        }
+    ],
+    "bin": [
+        "bin/selenium.jar"
+    ]
+}
